@@ -130,6 +130,10 @@ line-height: normal;
 
 }
 
+.skill-item img,h3{
+    padding-bottom: 30px;
+}
+
 
 /* skill end */
 
