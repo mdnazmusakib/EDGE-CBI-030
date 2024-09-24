@@ -249,3 +249,14 @@ font-weight: 400;
 line-height: 28px;
 margin-bottom: 30px;
 }
+
+/* summary ends  */
+
+/* footer starts */
+
+.footer{
+    display: flex;
+}
+.s-img{
+    display: flex;
+}
